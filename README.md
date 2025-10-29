@@ -3,11 +3,12 @@ Engineering manager, with strong SWE background.
 
 Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
-## What I do
+<details><summary>## What I do</summary>
 • Java backend (big systems)  
 • Python utilities  
 • Automation and DevOps  
-• Bit into film photography lately   
+• Bit into film photography lately
+</details>
 
 ## Current goals
 • Build tools that help digital nomads  
