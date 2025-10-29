@@ -2,6 +2,11 @@
 Engineering manager, with strong SWE background. 
 Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
+## Things you are here after 
+<ul>
+<li>My <a  href="https://github.com/jrand0m/jrand0m/blob/master/goddies/ai/AGENTS.md">AGENTS.md</a></li>
+</ul>
+
 ## What I do
 <details><summary>solve your SWE problems, deliver projects, etc</summary>
 <ul>
