@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi Im Myke 👋
+Software developer ☕ and film photographer 🎞️  
+Digital nomad across SEA, but currently in the bay of Buenos Aires 😄🌴
 
-<!--
-**jrand0m/jrand0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I do
+• Java backend (big systems)  
+• Python utilities  
+• Automation and DevOps  
+• Bit into film photography lately   
 
-Here are some ideas to get you started:
+## Current goals
+• Build tools that help digital nomads  
+• Publish open projects that automate boring work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My tech stack
+• Languages → Java, Python, Bash, Go  
+• Platforms → macOS, Linux, Raspberry Pi  
+• Tools → Docker, Ansible, Git, tmux  
+• Databases → PostgreSQL, Redis  
+
+## Photography
+• 35mm film  
+• Beaches with cliffs  
+• Minimal tourist spots  
+• Golden hour only ✨
+
+## Social
+• Instagram → jrand0m (surprise, surprise 🍎) 
+• Website/Blog → blog.nd0.me  
+• Email → used github's email 
+
+---
+If you like my work ⭐ the repo or follow for more
