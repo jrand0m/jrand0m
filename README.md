@@ -3,7 +3,8 @@ Engineering manager, with strong SWE background.
 
 Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
-<details><summary>## What I do</summary>
+## What I do
+<details><summary>solve your SWE problems, deliver projects, etc</summary>
 • Java backend (big systems)  
 • Python utilities  
 • Automation and DevOps  
