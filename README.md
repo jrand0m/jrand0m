@@ -1,44 +1,51 @@
 # Hi Im Myke 👋
 Engineering manager, with strong SWE background. 
-
 Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
 ## What I do
 <details><summary>solve your SWE problems, deliver projects, etc</summary>
-<ol>
-  <li>• Java backend (big systems)</li>  
-• Python utilities  
-• Automation and DevOps  
-</ol></details>
+<ul>
+  <li>Java backend (big systems)</li>  
+  <li>Python utilities</li>
+  <li>Automation and DevOps</li>
+</ul>
+</details>
 
 ## Current goals
 <details><summary>build things that bring value</summary>
-• Build tools that help digital nomads  
-• Publish open projects that automate boring work
+<ul>
+  <li>Build tools that help digital nomads</li>
+  <li>Publish open projects that automate boring work</li>
+</ul>
 </details>
-
 
 ## My tech stack
 <details><summary>Java is not JavaScript, but does it matter in AI age ?</summary>
-• Languages → Java, Python, Bash, Go  
-• Platforms → macOS, Linux, Raspberry Pi  
-• Tools → Docker, Ansible, Git, tmux  
-• Databases → PostgreSQL, Redis
-• AI → RAG, Embedding Vector optimisations
-<details>
+<ul>
+  <li>Languages → Java, Python, Bash, Go</li>
+  <li>Platforms → macOS, Linux, Raspberry Pi</li>
+  <li>Tools → Docker, Ansible, Git, tmux</li>
+  <li>Databases → PostgreSQL, Redis</li>
+  <li>AI → RAG, Embedding Vector optimisations</li>
+</ul>
+</details>
 
 ## Things I enjoy
-<details><summary> realy interested ?</summary>
-• 35mm film  
-• Beaches with cliffs  
-• Minimal tourist spots  
-• Golden hours ✨
-  
+<details><summary>really interested ?</summary>
+<ul>
+  <li>35mm film</li>
+  <li>Beaches with cliffs</li>
+  <li>Minimal tourist spots</li>
+  <li>Golden hours ✨</li>
+</ul>
 </details>
+
 ## Social
-• Instagram → jrand0m (surprise, surprise 🍎) 
-• Website/Blog → blog.nd0.me  
-• Email → use my commit mail 🌚  
+<ul>
+  <li>Instagram → jrand0m (surprise, surprise 🍎)</li>
+  <li>Website/Blog → blog.nd0.me</li>
+  <li>Email → use my commit mail 🌚</li>
+</ul>
 
 ---
 If you like my work ⭐ the repo or follow for more
