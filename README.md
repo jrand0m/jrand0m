@@ -1,6 +1,7 @@
 # Hi Im Myke 👋
-Software developer ☕ and film photographer 🎞️  
-Digital nomad across SEA, but currently in the bay of Buenos Aires 😄🌴
+Engineering manager, with strong SWE background. 
+
+Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
 ## What I do
 • Java backend (big systems)  
@@ -27,7 +28,7 @@ Digital nomad across SEA, but currently in the bay of Buenos Aires 😄🌴
 ## Social
 • Instagram → jrand0m (surprise, surprise 🍎) 
 • Website/Blog → blog.nd0.me  
-• Email → used github's email 
+• Email → use my commit mail 🌚  
 
 ---
 If you like my work ⭐ the repo or follow for more
