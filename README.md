@@ -36,12 +36,15 @@ Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 </details>
 
 ## Things I enjoy
-<details><summary>really interested ?</summary>
+<details><summary>🌚</summary>
 <ul>
-  <li>35mm film</li>
-  <li>Beaches with cliffs</li>
-  <li>Minimal tourist spots</li>
+  <li>Shoot on 35mm film</li>
+  <li>Visit beaches with cliffs</li>
+  <li>Discover lesser known POI spots</li>
   <li>Golden hours ✨</li>
+  <li>Flying quads</li>
+  <li>Riding big motorcyles</li>
+  <li>Seeing palm trees from my window</li>
 </ul>
 </details>
 
