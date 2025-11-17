@@ -4,7 +4,8 @@ Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
 
 ## Things you are here after 
 <ul>
-<li>My <a  href="https://github.com/jrand0m/jrand0m/blob/master/goddies/ai/AGENTS.md">AGENTS.md</a></li>
+  <li>My <a  href="https://github.com/jrand0m/jrand0m/blob/master/goddies/ai/AGENTS.md">AGENTS.md</a></li>
+  <li> Multistep LLM Development <a href="https://github.com/jrand0m/madskillz/">skills</a> for Claude Code</li>
 </ul>
 
 ## What I do
