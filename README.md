@@ -56,3 +56,4 @@ Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
   <li>Email → use my commit mail 🌚</li>
 </ul>
 
+<img src="https://cloud.umami.is/p/DHLpSsFTE"/> 
