@@ -1,6 +1,6 @@
 # Hi Im Myke 👋
 Engineering manager, with strong SWE background. 
-Digital nomad across SEA, but currently in the bay of Buenos Aires 😄 🌴
+If you are here high chances that you are looking ot hire me, please feel free to look around. 
 
 ## Things you are here after 
 <ul>
