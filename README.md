@@ -1,6 +1,10 @@
 # Hi Im Myke 👋
 Engineering manager, with strong SWE background. 
-If you are here high chances that you are looking ot hire me, please feel free to look around. 
+If you are here high chances that you are looking ot hire me, please feel free to look around.
+## Mellyn nín maer
+I like gift people things that they actualy can put to use, the same I would prefer in the reverse. 
+To coordinate that - I have made small page that shows what things I feel that would make me a bit more happier. 
+Take a look around of my <a href="https://wishlist.nd0.me/">wish list</a>.
 
 ## Things you are here after 
 <ul>
@@ -52,8 +56,9 @@ If you are here high chances that you are looking ot hire me, please feel free t
 ## Social
 <ul>
   <li>Instagram → jrand0m (surprise, surprise 🍎)</li>
-  <li>Website/Blog → blog.nd0.me</li>
+  <li>Website/Blog → <a href="https://blog.nd0.me/">blog.nd0.me</li>
   <li>Email → use my commit mail 🌚</li>
+  <li>My Wish List → <a href="https://wishlist.nd0.me/">wishlist.nd0.me</a></li>
 </ul>
 
 <img src="https://cloud.umami.is/p/DHLpSsFTE"/> 
